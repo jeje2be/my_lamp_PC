@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defaultproperties>
+<Module key="default_lamp">
+	<IP>192.168.1.1</IP>
+  <NAME>default_name</NAME>
+  <MAC_ADRESS>5C-CF-7F-3A-96-C0</MAC_ADRESS>
+  <PWM>100</PWM>
+  <PWM_2>100</PWM_2>  
+</Module>
+</defaultproperties>
